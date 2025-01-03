@@ -12,6 +12,10 @@ Listing and saving the important books/research papers I read
 
 ### 4.) [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 
+### 5.) [Foundational Large Language Models & Text Generation](https://drive.google.com/file/d/1mFvTxfuJg4VNutn9wBvH_URznLRkklb3/view)
+
+### 6.) [Prompt Engineering](https://drive.google.com/file/d/1mFvTxfuJg4VNutn9wBvH_URznLRkklb3/view)
+
 
 ## Recent : 
 
